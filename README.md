@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Abdullah Al Sakib, final Year Computer Science student passionate about AI-driven systems. I enjoy building backend applications using Python and Flask. I am currently learning fastapi,  Retrieval-Augmented Generation (RAG) to building scalable AI-powered APIs using FastAPI, and developing intelligent AI Agents. My goal is to design and deploy production-ready AI systems that solve real-world problems.<br><br>
+I am Abdullah Al Sakib,Computer Science graduate passionate about AI-driven systems. I enjoy building backend applications using Python and Flask. I am currently learning fastapi,  Retrieval-Augmented Generation (RAG) to building scalable AI-powered APIs using FastAPI, and developing intelligent AI Agents. My goal is to design and deploy production-ready AI systems that solve real-world problems.<br><br>
 
 
 ## 🌐 Socials:
